@@ -1,0 +1,12 @@
+{
+  "id": "defeated-overlay",
+  "title": "Defeated Overlay",
+  "description": "Applies the defeated (dead) status as a full-token overlay, no matter what applied it (combat tracker, Token HUD, or modules like Monk's Combat Details).",
+  "version": "1.0.0",
+  "authors": [{ "name": "JSClinton" }],
+  "compatibility": { "minimum": "13", "verified": "14" },
+  "esmodules": ["defeated-overlay.js"],
+  "url": "https://github.com/JSClinton/foundryvtt-defeated-overlay",
+  "manifest": "https://raw.githubusercontent.com/JSClinton/foundryvtt-defeated-overlay/main/module.json",
+  "download": "https://github.com/JSClinton/foundryvtt-defeated-overlay/releases/download/v1.0.0/module.zip"
+}
